@@ -1,0 +1,10 @@
+[Unit]
+Requires=systemd-modules-load.service
+After=systemd-modules-load.service
+
+[Service]
+Type=oneshot
+ExecStart=/system/bin/pvrsrvinit
+
+[Install]
+WantedBy=basic.target
