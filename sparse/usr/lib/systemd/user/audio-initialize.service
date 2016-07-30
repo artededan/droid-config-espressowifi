@@ -1,0 +1,11 @@
+[Unit]
+Description=Initialize audio interface on boot
+Requires=pulseaudio.service
+After=user-session.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/test_audio
+
+[Install]
+WantedBy=post-user-session.target
