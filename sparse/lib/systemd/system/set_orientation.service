@@ -1,0 +1,10 @@
+[Unit]
+Wants=systemd-udevd.service
+After=systemd-udevd.service
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/droid/set_orientation.sh
+
+[Install]
+WantedBy=basic.target
