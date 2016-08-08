@@ -1,0 +1,11 @@
+[Unit]
+Description=zram mount
+Before=swap.target
+
+[Swap]
+What=/dev/zram0
+Options=defaults
+TimeoutSec=10
+
+[Install]
+WantedBy=swap.target
