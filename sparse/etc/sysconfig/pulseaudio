@@ -1,0 +1,1 @@
+CONFIG="-n --file=/etc/pulse/arm_omap4430_espresso3g.pa"

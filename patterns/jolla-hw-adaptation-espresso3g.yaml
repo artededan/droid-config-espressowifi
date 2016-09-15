@@ -18,6 +18,7 @@ Requires:
 - droid-hal-version-espresso3g
 
 - pulseaudio-modules-droid
+- pulseaudio-modules-droid-glue
 # for audio recording to work:
 - qt5-qtmultimedia-plugin-mediaservice-gstmediacapture
 
