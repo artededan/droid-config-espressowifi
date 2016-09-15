@@ -42,9 +42,6 @@ Requires:
 
 - gstreamer1.0-droid
 
-# This is needed for notification LEDs
-- mce-plugin-libhybris
-
 ## USB mode controller
 # Enables mode selector upon plugging USB cable:
 - usb-moded
