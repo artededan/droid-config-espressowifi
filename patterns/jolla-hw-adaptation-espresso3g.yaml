@@ -73,5 +73,16 @@ Requires:
 # For devices where test_gps eventually gets a fix:
 - geoclue-provider-hybris
 
+- jolla-calculator
+- jolla-calendar
+- jolla-email
+- jolla-email-settings
+- jolla-mediaplayer
+- jolla-notes
+- jolla-notes-settings
+- jolla-settings-accounts-extensions-3rd-party-all
+- sailfish-office
+- sailfish-weather
+
 Summary: Jolla HW Adaptation espresso3g
 
