@@ -1,0 +1,4 @@
+CPUCHECK_STRING="OMAP4 Espresso board"
+PART_1="KERNEL"
+PART_REAL_1="mmcblk0p5"
+PART_I="1"

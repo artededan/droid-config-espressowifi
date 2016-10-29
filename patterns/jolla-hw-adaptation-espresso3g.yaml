@@ -10,11 +10,13 @@ Requires:
 
 - droid-hal-espresso3g
 - droid-hal-espresso3g-img-boot
+- droid-hal-espresso3g-kernel
 - droid-hal-espresso3g-kernel-modules
 - droid-config-espresso3g-sailfish
 - droid-config-espresso3g-pulseaudio-settings
 - droid-config-espresso3g-policy-settings
 - droid-config-espresso3g-preinit-plugin
+- droid-config-espresso3g-flashing
 - droid-hal-version-espresso3g
 
 - pulseaudio-modules-droid
