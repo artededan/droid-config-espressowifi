@@ -67,6 +67,9 @@ Requires:
 # For devices where test_gps eventually gets a fix:
 - geoclue-provider-hybris
 
+# For sdcard mount
+- sd-utils
+
 - jolla-calculator
 - jolla-calendar
 - jolla-email
