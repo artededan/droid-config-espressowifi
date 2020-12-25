@@ -1,10 +1,10 @@
 # These and other macros are documented in
 # ../droid-configs-device/droid-configs.inc
-%define device espresso3g
+%define device espressowifi
 %define vendor samsung
 
 %define vendor_pretty Samsung
-%define device_pretty Galaxy Tab 2 3G
+%define device_pretty Galaxy Tab 2
 
 %define dcd_path ./
 
